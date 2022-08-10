@@ -9,3 +9,6 @@
 + CSS классы по методологии БЭМ.
 + Файловая структура Nested БЭМ.
 + Вёрстка по макету в Figma.
+***
+Ссылка:
+https://konstantinsky1.github.io/how-to-learn/index.html
