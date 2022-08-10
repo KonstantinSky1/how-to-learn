@@ -4,6 +4,11 @@
   }
 }
 
-.rotation {
+/*Выключаем чтобы сделать через псевдоэлемент*/
+/* .rotation {
+  animation: rotation 20s linear infinite;
+} */
+
+.rotation::before {
   animation: rotation 20s linear infinite;
 }
